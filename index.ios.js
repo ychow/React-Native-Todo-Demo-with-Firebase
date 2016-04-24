@@ -15,7 +15,7 @@ import React, {
   TouchableHighlight
 } from 'react-native';
 
-const Firebase = require('firebase');
+import Firebase from 'firebase';
 
 class devdecticFirebase extends Component {
   constructor(props) {
